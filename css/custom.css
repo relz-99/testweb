@@ -20,3 +20,8 @@
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+
+@media (min-width: 992px) {
+  .home-carousel .right {
+    text-align: center;
+  }
