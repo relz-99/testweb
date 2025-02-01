@@ -1,54 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Universal</title>
+    <title>Tags on Beba Deodorant Spray Tawas Website</title>
     <link>https://bebadeo.web.id/tags/</link>
-    <description>Recent content in Tags on Universal</description>
+    <description>Recent content in Tags on Beba Deodorant Spray Tawas Website</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <language>id-id</language>
     <atom:link href="https://bebadeo.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Golang</title>
-      <link>https://bebadeo.web.id/tags/golang/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://bebadeo.web.id/tags/golang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://bebadeo.web.id/tags/hugo/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://bebadeo.web.id/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://bebadeo.web.id/tags/programming/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://bebadeo.web.id/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme</title>
-      <link>https://bebadeo.web.id/tags/theme/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://bebadeo.web.id/tags/theme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go</title>
-      <link>https://bebadeo.web.id/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>https://bebadeo.web.id/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ipsum</title>
-      <link>https://bebadeo.web.id/tags/ipsum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bebadeo.web.id/tags/ipsum/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

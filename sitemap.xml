@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bebadeo.web.id/blog/</loc>
-    <lastmod>2025-02-01T11:12:16+00:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/blog/2025/02/01/post/</loc>
-    <lastmod>2025-02-01T11:12:16+00:00</lastmod>
+    <loc>https://bebadeo.web.id/blog/2025/01/30/apa-itu-beba-deo-spray-tawas-alami/</loc>
+    <lastmod>2025-01-30T07:45:14+00:00</lastmod>
   </url><url>
     <loc>https://bebadeo.web.id/</loc>
-    <lastmod>2025-02-01T11:12:16+00:00</lastmod>
+    <lastmod>2025-01-30T07:45:14+00:00</lastmod>
+  </url><url>
+    <loc>https://bebadeo.web.id/blog/</loc>
+    <lastmod>2025-01-30T07:45:14+00:00</lastmod>
   </url><url>
     <loc>https://bebadeo.web.id/faq/</loc>
     <lastmod>2025-01-30T07:44:34+00:00</lastmod>
@@ -24,64 +24,9 @@
     <lastmod>2025-01-30T07:39:04+00:00</lastmod>
   </url><url>
     <loc>https://bebadeo.web.id/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://bebadeo.web.id/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/blog/2021/08/01/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://bebadeo.web.id/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://bebadeo.web.id/tags/ipsum/</loc>
-  </url><url>
-    <loc>https://bebadeo.web.id/blog/1/01/01/migrate-from-jekyll/</loc>
   </url>
 </urlset>
