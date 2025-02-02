@@ -25,15 +25,15 @@
   .home-carousel .right {
     text-align: center;
   }
-
-.blog-img {
+  
+.blog-figure {
+  text-align: center;
+  }
+  
+#blog-post #post-content img{
   max-width: 600px;
   width: 100%;
   height: auto;
   display: block;
-  margin: 0 auto;
-}
-
-.blog-figure {
-  text-align: center;
+  margin: auto;
 }
